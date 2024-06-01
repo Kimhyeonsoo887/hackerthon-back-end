@@ -1,4 +1,4 @@
-# 프로젝트 이름: 건강 관리 애플리케이션
+# 프로젝트 이름: 뉴트리지니
 
 ## 소개
 이 프로젝트는 사용자가 자신의 건강 목표를 설정하고 달성할 수 있도록 돕는 통합 건강 관리 애플리케이션입니다. 사용자는 프로필을 설정하고, 자신의 이미지를 등록하며, 섭취할 음식을 분석하고 추천 받을 수 있습니다. 이 애플리케이션은 AI를 활용하여 개인 맞춤형 건강 관리를 제공합니다.
@@ -33,51 +33,3 @@
 
 ### AI
 - **OpenAI**: GPT-4
-
-## 설치 및 실행 방법
-
-### 프론트엔드
-1. 리포지토리를 클론합니다.
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo/frontend
-   ```
-2. 의존성을 설치합니다.
-   ```bash
-   npm install
-   ```
-3. 애플리케이션을 실행합니다.
-   ```bash
-   npm start
-   ```
-
-### 백엔드
-1. 리포지토리를 클론합니다.
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo/backend
-   ```
-2. 의존성을 설치합니다.
-   ```bash
-   ./mvnw install
-   ```
-3. 애플리케이션을 실행합니다.
-   ```bash
-   ./mvnw spring-boot:run
-   ```
-
-## 기여 방법
-1. 이 프로젝트를 포크합니다.
-2. 새로운 브랜치를 생성합니다.
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. 변경 사항을 커밋합니다.
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-4. 브랜치에 푸시합니다.
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. 풀 리퀘스트를 엽니다.
